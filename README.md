@@ -1,4 +1,6 @@
-	Environment:
+东北大学自然语言处理期末作业
+
+ 	Environment:
 	python=3.8  
 	torch=1.12.1  
 	torchvision=0.13.1  
